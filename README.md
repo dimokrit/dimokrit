@@ -15,13 +15,13 @@ Types of projects I have worked on: FT, NFT, mint page UI, staking, marketplace,
 
 <h3>How I do:</h3>
 
-:space_invader: Optimized and secure code
+💻 Optimized and secure code
 
-:space_invader: Full test coverage
+⚒️ Full test coverage
 
-:space_invader: Successful and smooth project lauch
+✔️ Successful and smooth project lauch
 	
-:space_invader:	Creative Ideas
+🧠	Creative Ideas
 
 
 <h2>Developing on:</h2>
