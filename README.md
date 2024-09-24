@@ -10,8 +10,8 @@
 <h2>About me:</h2>
 	
 I'm fast learning Middle+ Blockchain and Middle Web Developer.
-I have a rich experience with Solana, EVM (Ethereum, Polygon, Binance Smart Chain), TVM (Tron) and custom (Symbol) Blockchains.
-Types of projects I have worked on: FT, NFT, mint page UI, staking, marketplace, crypto matrix games, auction and launchpad.
+I have a rich experience with EVM (Ethereum, Polygon, Binance Smart Chain), TVM (Tron) and custom Blockchains.
+Types of projects I have worked on: FT, NFT, staking, marketplace, crypto matrix games, auction and launchpad.
 
 <h3>How I do:</h3>
 
